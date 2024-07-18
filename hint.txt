@@ -1,1 +1,1 @@
-File hint
+-e "Hint 1\nHint 2" 
