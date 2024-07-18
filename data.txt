@@ -1,2 +1,4 @@
 file Data
 Another extra line for data.txt
+-e "Line78"
+"Extra line for data.txt"
