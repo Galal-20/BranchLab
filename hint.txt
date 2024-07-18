@@ -1,1 +1,2 @@
 -e "Hint 1\nHint 2" 
+"Extra line for hint.txt" 
